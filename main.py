@@ -1,5 +1,4 @@
 from solders.keypair import Keypair
-import base58
 
 create_keypair = Keypair()
 
